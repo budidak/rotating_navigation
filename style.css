@@ -138,7 +138,7 @@ body {
   transform: translateX(-200%);
 }
 
-.container.show-nav + nav li {
+.container.show-nav + .nav li {
   transform: translateX(0);
   transition-delay: 0.3s;
 }
